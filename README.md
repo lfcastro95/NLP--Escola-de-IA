@@ -1,1 +1,1 @@
-# NLP--Escola-de-IA
+projeto de NLP da escola de IA IBM feito utilizando a base de dados sobre cyberbulyying no twitter https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fandrewmvd%2Fcyberbullying-classification%2Fdata
